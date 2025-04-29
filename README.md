@@ -1,2 +1,5 @@
-# mini_golf
+Mini Golf
+=========
+
 Mini golf course circuit.
+
